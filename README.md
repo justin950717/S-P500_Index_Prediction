@@ -1,2 +1,2 @@
 # SP500_index_prediction
-Deep Learning Assignment
+## Masters in DSBA Deep Learning Assignment
