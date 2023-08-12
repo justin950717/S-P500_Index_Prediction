@@ -1,4 +1,4 @@
-# SP500_index_prediction
+# SP500_Index_Prediction
 ## Masters in DSBA Deep Learning Assignment
 
 This is a Deep Learning case study to compare LSTM vs GRU architectures for stock index time series predictions, using larger time steps.
